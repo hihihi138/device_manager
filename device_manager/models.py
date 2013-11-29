@@ -7,11 +7,14 @@ import datetime
 class Device(models.Model):
     device_name = models.CharField(max_length=50)
     device_brand = models.CharField(max_length=50)
-    device_price = models.FloatField(blank=True)
+    device_price = models.FloatField(blank=True, null=True)
     device_user = models.ForeignKey(User)
     device_imei = models.BigIntegerField(max_length=15)
     device_status = models.IntegerField(max_length=1)
     device_reg_date = models.DateTimeField(default=datetime.datetime.now())
+    
+    def __unicode__(self):
+        return self.device_brand + " - " + self.device_name
     
 class Order(models.Model):
     order_starttime = models.DateTimeField()
@@ -21,3 +24,6 @@ class Order(models.Model):
     order_to_user = models.CharField(max_length=50)
     order_device = models.ForeignKey(Device)
     order_comment = models.TextField()
+    
+    def __unicode__(self):
+        return self.device_brand + " - " + self.device_name
