@@ -10,5 +10,6 @@ urlpatterns = patterns('',
 
     url(r'^admin/', include(admin.site.urls)),
     url(r'^device_manager/', include('device_manager.urls')),
-    url(r'', include('device_manager.urls'))
+    url(r'', include('device_manager.urls')),
+    url(r'^accounts/login/$', 'django.contrib.auth.views.login', {'template_name': 'login.html'}),
 )
