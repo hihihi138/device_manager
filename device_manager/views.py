@@ -15,5 +15,6 @@ def index(request):
             device.status = "故障"
         else:
             device.status = "未知"
+    
     context = {'device_list': device_list}
     return render(request, 'devices.html', context)
