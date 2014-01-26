@@ -1,0 +1,38 @@
+; Summary: LJ's GFW Rule List
+; Author: LJ
+; Date: 2013-09-11
+; URL: https://dl.dropboxusercontent.com/u/4391350/muerlist.txt
+
+# https://goagent.googlecode.com/files/SwitchyOptions.bak
+
+#BEGIN
+
+[Wildcard]
+*://www.atgfw.org/*
+*://boxun.com/*
+*facebook*
+*.google.*
+*://webcache.googleusercontent.com/*
+*://www.google.com.hk/*
+*.googleusercontent.com/*
+*.pandora.com/*
+*://podcastoficeandfire.com/*
+*twitter*
+*.wordpress.com/*
+*youtube*
+*.ytimg.com/*
+*.dropbox.com/*
+*.cloudfront.net/*
+*.dropboxusercontent.com/*
+*.blogspot.com/*
+*.t.co/*
+*.bit.ly/*
+*.ggpht.com/*
+*.googlecode.com/*
+*.blogger.com/*
+*.gstatic.com/*
+*.getpocket.com/*
+
+[RegExp]
+
+#END
