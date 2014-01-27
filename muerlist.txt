@@ -32,6 +32,7 @@
 *.blogger.com/*
 *.gstatic.com/*
 *.getpocket.com/*
+*t66y.com/*
 
 [RegExp]
 
