@@ -33,6 +33,7 @@
 *.gstatic.com/*
 *.getpocket.com/*
 *.t66y.com/*
+*.appspot.com/*
 
 [RegExp]
 
