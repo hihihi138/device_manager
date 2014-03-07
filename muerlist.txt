@@ -34,6 +34,7 @@
 *.getpocket.com/*
 *.t66y.com/*
 *.appspot.com/*
+*.googleapis.com/*
 
 [RegExp]
 
