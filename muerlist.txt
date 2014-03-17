@@ -35,6 +35,7 @@
 *.t66y.com/*
 *.appspot.com/*
 *.googleapis.com/*
+*.slideshare.net/*
 
 [RegExp]
 
