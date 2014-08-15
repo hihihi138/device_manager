@@ -36,6 +36,7 @@
 *.appspot.com/*
 *.googleapis.com/*
 *.slideshare.net/*
+*goo.gl/*
 
 [RegExp]
 
