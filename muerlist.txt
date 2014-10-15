@@ -37,6 +37,7 @@
 *.googleapis.com/*
 *.slideshare.net/*
 *goo.gl/*
+*.vpnss.com/*
 
 [RegExp]
 
