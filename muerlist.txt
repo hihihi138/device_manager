@@ -18,6 +18,7 @@
 *.pandora.com/*
 *://podcastoficeandfire.com/*
 *twitter*
+*.twimg.com/*
 *.wordpress.com/*
 *youtube*
 *.ytimg.com/*
@@ -38,6 +39,10 @@
 *.slideshare.net/*
 *goo.gl/*
 *.vpnss.com/*
+*.instagram.com/*
+*.googletagservices.com/*
+*.google-analytics.com/*
+*.s3.amazonaws.com/*
 
 [RegExp]
 
