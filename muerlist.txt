@@ -43,6 +43,32 @@
 *.googletagservices.com/*
 *.google-analytics.com/*
 *.s3.amazonaws.com/*
+*.vpnss07.com +ShadowSocks
+*.licdn.com +ShadowSocks
+*.facebook.net +ShadowSocks
+*.here.com +ShadowSocks
+*.box.com +ShadowSocks
+*.sstatic.net +ShadowSocks
+*.freehostia.com +ShadowSocks
+*.dongwm.com +ShadowSocks
+*.fonts.googleapis.com +ShadowSocks
+*.google-analytics.com +ShadowSocks
+*.maps.googleapis.com +ShadowSocks
+*.pytest.org +ShadowSocks
+*.amzn.to +ShadowSocks
+*.google.com +ShadowSocks
+*.vbird.org +ShadowSocks
+*.hooli.xyz +ShadowSocks
+*.abc.xyz +ShadowSocks
+*.blogspot.de +ShadowSocks
+*.instagram.com +ShadowSocks
+*.pandora.com +ShadowSocks
+*.googletagservices.com +ShadowSocks
+*.pygal.org +ShadowSocks
+*.yesasia.com +ShadowSocks
+*.wikipedia.org +ShadowSocks
+*.shadowsocks.com +ShadowSocks
+*.s3.amazonaws.com +ShadowSocks
 
 [RegExp]
 
