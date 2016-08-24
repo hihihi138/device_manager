@@ -69,6 +69,11 @@
 *.wikipedia.org +ShadowSocks
 *.shadowsocks.com +ShadowSocks
 *.s3.amazonaws.com +ShadowSocks
+*.dmtry.com +ShadowSocks
+*.googletagmanager.com +ShadowSocks
+*.gexperiments3.com +ShadowSocks
+*.gexperiments2.com +ShadowSocks
+*.graphviz.org +ShadowSocks
 
 [RegExp]
 
