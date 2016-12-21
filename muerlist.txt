@@ -1,9 +1,7 @@
 ; Summary: LJ's GFW Rule List
 ; Author: LJ
 ; Date: 2013-09-11
-; URL: https://dl.dropboxusercontent.com/u/4391350/muerlist.txt
-
-# https://goagent.googlecode.com/files/SwitchyOptions.bak
+; URL: https://raw.githubusercontent.com/hihihi138/device_manager/master/muerlist.txt
 
 #BEGIN
 
@@ -47,7 +45,6 @@
 *.licdn.com +ShadowSocks
 *.facebook.net +ShadowSocks
 *.here.com +ShadowSocks
-*.box.com +ShadowSocks
 *.sstatic.net +ShadowSocks
 *.freehostia.com +ShadowSocks
 *.dongwm.com +ShadowSocks
