@@ -1,11 +1,6 @@
-; Summary: LJ's GFW Rule List
-; Author: LJ
-; Date: 2013-09-11
-; URL: https://raw.githubusercontent.com/hihihi138/device_manager/master/muerlist.txt
+[SwitchyOmega Conditions]
+@with result
 
-#BEGIN
-
-[Wildcard]
 *.gerritcodereview.com +ShadowSocks
 *.serraview.com +ShadowSocks
 *.staticfile.org +ShadowSocks
@@ -155,6 +150,4 @@
 *.shadowsocks.com +ShadowSocks
 *.s3.amazonaws.com +ShadowSocks
 
-[RegExp]
-
-#END
+* +direct
