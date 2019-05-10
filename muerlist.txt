@@ -1,6 +1,10 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.ytimg.com +ShadowSocks
+*.gstatic.com +ShadowSocks
+*google* +ShadowSocks
+*youtube* +ShadowSocks
 *.gerritcodereview.com +ShadowSocks
 *.nytimes.com +ShadowSocks
 *.quoracdn.net +ShadowSocks
@@ -12,10 +16,7 @@
 *.dwnews.com +ShadowSocks
 *.quora.com +ShadowSocks
 *.g.co +ShadowSocks
-*.googleblog.com +ShadowSocks
 *.bitbucket.org +ShadowSocks
-*.googleapis.com +ShadowSocks
-*.googletagservices.com +ShadowSocks
 *.youtu.be +ShadowSocks
 *.bbc.co.uk +dolby
 *.bbci.co.uk +dolby
@@ -32,22 +33,16 @@
 *.box.net +ShadowSocks
 *.boxlocalhost.com +ShadowSocks
 *.pytest.org +ShadowSocks
-*.googlesource.com +ShadowSocks
 *.chromium.org +ShadowSocks
 *.chrome.com +ShadowSocks
 *.boxcdn.net +ShadowSocks
 *.box.com +ShadowSocks
-*.googlevideo.com +ShadowSocks
 *.cdninstagram.com +ShadowSocks
 *.akamaihd.net +ShadowSocks
 *.github.com +ShadowSocks
 *.github.io +ShadowSocks
-*.google-analytics.com +ShadowSocks
-*.googleadservices.com +ShadowSocks
-*.googletagmanager.com +ShadowSocks
 *.facebook.net +ShadowSocks
 *.amzn.to +ShadowSocks
-*.google.com +ShadowSocks
 *.blogspot.de +ShadowSocks
 *.instagram.com +ShadowSocks
 *.pandora.com +ShadowSocks
